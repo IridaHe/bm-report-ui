@@ -1,7 +1,7 @@
 var Path = require('path')
 var HtmlWebpackPlugin = require('html-webpack-plugin')
-var Webpack = require('webpack')
-var WebpackDevServer = require('webpack-dev-server')
+// var Webpack = require('webpack')
+// var WebpackDevServer = require('webpack-dev-server')
 
 function getEslintLoader () {
   return {

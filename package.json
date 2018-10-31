@@ -1,14 +1,14 @@
 {
-  "name": "bmui",
-  "version": "0.3.6",
-  "description": "Bluemoon Moon Components",
+  "name": "bm-report-ui",
+  "version": "0.0.1",
+  "description": "Bluemoon DataReport Components",
   "main": "dist/bmui.css",
   "scripts": {
     "dev": "webpack-dev-server --config webpack.dev.js",
     "build": "webpack --config webpack.build.js"
   },
   "keywords": [],
-  "author": "ViYaYaYa",
+  "author": "IridaHo",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^8.3.0",
